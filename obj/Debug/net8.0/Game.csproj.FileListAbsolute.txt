@@ -1,0 +1,15 @@
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\bin\Debug\net8.0\Game.exe
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\bin\Debug\net8.0\Game.deps.json
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\bin\Debug\net8.0\Game.runtimeconfig.json
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\bin\Debug\net8.0\Game.dll
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\bin\Debug\net8.0\Game.pdb
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.AssemblyInfoInputs.cache
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.AssemblyInfo.cs
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.dll
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\refint\Game.dll
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.pdb
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.genruntimeconfig.cache
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\ref\Game.dll
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\obj\Debug\net8.0\Game.sourcelink.json

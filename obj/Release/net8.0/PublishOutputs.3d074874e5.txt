@@ -1,0 +1,5 @@
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\setup\Game.exe
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\setup\Game.dll
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\setup\Game.deps.json
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\setup\Game.runtimeconfig.json
+C:\Users\MARISSA\OneDrive\Escritorio\r\Game\setup\Game.pdb

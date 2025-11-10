@@ -1,0 +1,5 @@
+C:\Users\willy\OneDrive\Desktop\Snake-game\Setup\Game.exe
+C:\Users\willy\OneDrive\Desktop\Snake-game\Setup\Game.dll
+C:\Users\willy\OneDrive\Desktop\Snake-game\Setup\Game.deps.json
+C:\Users\willy\OneDrive\Desktop\Snake-game\Setup\Game.runtimeconfig.json
+C:\Users\willy\OneDrive\Desktop\Snake-game\Setup\Game.pdb
